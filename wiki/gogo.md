@@ -1,5 +1,5 @@
 ---
-title: "gogo"
+title: gogo
 description: 恪人族梗集条目
 tags:
   - 恪人族梗集

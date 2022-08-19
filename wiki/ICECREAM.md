@@ -1,5 +1,5 @@
 ---
-title: "ICECREAM"
+title: ICECREAM
 description: 恪人族梗集条目
 tags:
   - 恪人族梗集
@@ -7,4 +7,4 @@ tags:
 
 ## 解释
 
-[ICERSS工作室](./ICERSS工作室)的原名。
+[ICERSS工作室](ICERSS工作室)的原名。

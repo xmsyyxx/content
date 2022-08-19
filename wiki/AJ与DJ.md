@@ -1,5 +1,5 @@
 ---
-title: "AJ与DJ"
+title: AJ与DJ
 description: 恪人族梗集条目
 tags:
   - 恪人族梗集

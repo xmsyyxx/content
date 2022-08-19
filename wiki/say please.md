@@ -1,5 +1,5 @@
 ---
-title: "say please"
+title: say please
 description: 恪人族梗集条目
 tags:
   - 恪人族梗集

@@ -1,5 +1,5 @@
 ---
-title: "MP5"
+title: MP5
 description: 恪人族梗集条目
 tags:
   - 恪人族梗集

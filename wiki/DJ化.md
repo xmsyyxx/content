@@ -1,5 +1,5 @@
 ---
-title: "DJ化"
+title: DJ化
 description: 恪人族梗集条目
 tags:
   - 恪人族梗集
