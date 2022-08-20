@@ -7,4 +7,4 @@ tags:
 
 ## 解释
 
-[IYAMAYA工作室](IYAMAYA工作室)的盗版名称。
+[IYAMAYA 工作室](../IYAMAYA工作室)的盗版名称。

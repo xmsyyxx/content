@@ -7,4 +7,4 @@ tags:
 
 ## 解释
 
-[ICERSS工作室](ICERSS工作室)的原名。
+[ICERSS 工作室](../ICERSS工作室)的原名。
