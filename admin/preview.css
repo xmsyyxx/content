@@ -1,0 +1,71 @@
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+body {
+  color: #212121;
+  background-color: #fafafa;
+  font-family: Poppins, Noto Sans SC, sans-serif;
+  font-size: 1.8em;
+  font-weight: 400;
+  line-height: 1.8em;
+  margin: 0;
+  padding: 0;
+
+  background-image: url(https://wikioss.xhemj.work/krzfs/jiekebu/9e053abc699a921eb1b004121a3b6b3a.png/normal.webp);
+  background-repeat: repeat;
+  background-position: 50%;
+  background-size: contain;
+}
+
+.preview-body {
+  margin-top: 6.4rem;
+  margin-bottom: 3.2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.preview-body h1 {
+  font-size: 4.2rem;
+  line-height: 4.6rem;
+  margin: 0;
+  margin-bottom: 0.75em;
+}
+
+.preview-body img {
+  max-width: 100%;
+  max-height: 300px;
+}
+
+.preview-body p {
+  text-align: justify;
+  text-justify: auto;
+  hyphens: auto;
+  margin: 2rem 0;
+}
+
+.preview-body .post-meta .date .posted-on {
+  margin-left: 0;
+  margin-right: 1.5rem;
+}
+
+.preview-body .post-meta i {
+  text-align: center;
+  width: 1.6rem;
+  margin-left: 0;
+  margin-right: 0.5rem;
+}
+
+.preview-body .post-meta .tags .tag {
+  display: inline-block;
+  padding: 0.3rem 0.6rem;
+  background-color: #e0e0e0;
+  border-radius: 0.6rem;
+  line-height: 1.4em;
+}
+
+.preview-body header {
+  margin-top: 6.4rem;
+  margin-bottom: 3.2rem;
+}
