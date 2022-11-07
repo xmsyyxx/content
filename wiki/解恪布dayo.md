@@ -13,4 +13,4 @@ tags:
 
 解恪布 dayo 同时也被用作 “耳斯百科” 网站的 logo 元素与 “[耳斯名言](耳斯名言)” 网站的背景人物之一。
 
-<WImg src="https://wikioss.xhemj.work/krzfs/wiki/a2e0b06efe38df025bf93b83202e72f9.jpg" title="解恪布dayo"></WImg>
+![解恪布dayo](https://wikioss.xhemj.work/krzfs/wiki/a2e0b06efe38df025bf93b83202e72f9.jpg?690x602)
